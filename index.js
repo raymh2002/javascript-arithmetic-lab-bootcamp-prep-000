@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 function add(a,b) {
   return a += b;
 }
@@ -29,3 +30,8 @@ function makeInt(n) {
 function preserveDecimal(n) {
   return parseFloat(n);
 }
+=======
+function add() {
+  
+}
+>>>>>>> 6ce5cd5835c9f823d6fec81662e3bce35867071e
